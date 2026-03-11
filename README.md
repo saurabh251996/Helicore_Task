@@ -176,10 +176,11 @@ Unauthorized responses:
 
 ## Postman Testing
 
-Import these files into Postman:
+Import below files and import into Postman:
 
-task-management-api.json  
-task-api-environment.json  
+Task Management API.postman_collection
+
+
 
 Use them to test all APIs.
 
