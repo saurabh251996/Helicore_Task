@@ -1,0 +1,17 @@
+exports.ROLES={
+    ADMIN:"ADMIN",
+    USER:"USER",
+};
+
+exports.STATUS = {
+  PENDING: "PENDING",
+  IN_PROGRESS: "IN_PROGRESS",
+  COMPLETED: "COMPLETED",
+  ON_HOLD: "ON_HOLD"
+};
+
+exports.PRIORITY = {
+  LOW: "LOW",
+  MEDIUM: "MEDIUM",
+  HIGH: "HIGH"
+};
