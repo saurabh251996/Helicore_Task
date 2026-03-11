@@ -21,7 +21,7 @@ Zod / Joi validation
 
 Clone the repository and install dependencies.
 
-git clone <repository-url>
+git clone https://github.com/saurabh251996/Helicore_Task/tree/main
 
 cd helicore_task
 
